@@ -1,6 +1,6 @@
-- 👋 Hi, I’m jieun
+- 👋 Hi, I’m HyeKoung
 - 👀 I’m interested in Computer Languages
-- 🌱 EMAIL : qhskdishfwkd@naver.com
+- 🌱 EMAIL : khg3694_@naver.com
 
 
 <!---
