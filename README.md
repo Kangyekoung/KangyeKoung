@@ -4,7 +4,7 @@
 
 
 <!---
-jieun-Seo/jieun-Seo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kangyekoung/Kangyekoung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-[![jieun's github stats](https://github-readme-stats.vercel.app/api?username=jieun-Seo&show_icons=true&theme=radical)](https://github.com/jieun-Seo)
+[![Kangyekoung github stats](https://github-readme-stats.vercel.app/api?username=Kangyekoung&show_icons=true&theme=radical)](https://github.com/Kangyekoung)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieun-Seo&layout=compact)](https://github.com/jieun-Seo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kangyekoung&layout=compact)](https://github.com/Kangyekoung/github-readme-stats)
