@@ -1,19 +1,20 @@
-**Hi there!**      
-**I am Kang. Full Stack Web Developer from Seoul, Republic of korea**     
-**About me**     
+**Hi there!:hearts:**      
+**I am Kang. Full Stack Web Developer from Seoul, Republic of korea:woman:**     
+**About me :star:**     
 
-<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/>
+--------------------
 
-I'm currently learning Basic Programming skills like Python, HTML, CSS and Javascript.   
-Sometimes I write articles on Medium   
+I'm currently learning Basic Programming skills like Java, HTML, CSS and Javascript.   
 How to reach me:KangHyekoung3694@gmail.com   
+   
+--------------------------
+   
    
 **Interest**      
 Web development  
-Animation with pure CSS & P5.js   
     
-**Latest Projects**     
-**papago**     
+**Latest Projects**        
+[link : papago](https://github.com/Kangyekoung/papago.git)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Kangyekoung/papago.git)
    
